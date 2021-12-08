@@ -3,33 +3,27 @@ layout: index
 published: true
 ---
 
-"O klubach wiedzy" to kurs, który Cię przygotuje do prowadzenia klubów wiedzy w bibliotece. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
-* **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
-* **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
-* **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
+Kurs "Jak prowadzić klub wiedzy?" przygotowuje do organizowania i moderowania klubów wiedzy, czyli spotkań grupy osób, które chcą się czegoś nauczyć i korzystają w tym celu z ogólnodostępnych zasobów online. Przed pandemią spotkania odbywały się zwykle w bibliotekach, obecnie wiele klubów wiedzy spotyka się zdalnie. 
 
 <br> 
 
-#### Course-in-a-Box Courses We Love ❤️
-Here are some examples of Course-in-a-Box in the wild:
+Kurs przygotowała [Fundacja Rozwoju Społeczeństwa Informacyjnego] (https://frsi.org.pl/) w ramach projektu "Kluby wiedzy w bibliotekach". Informacje o projekcie oraz wiele przydatnych materiałów dla osób prowadzących kluby wiedzy znajdziesz na stronie: [Kluby wiedzy w bibliotekach - jak to zrobić i dlaczego warto?] (https://biblioteki.org/artykuly/Kluby_wiedzy_w_bibliotekach_jak_to_zrobic_i_dlaczego_warto.html)
 
-* [Making and Learning](http://p2pu.github.io/makingandlearning/) by Children’s Museum of Pittsburgh
-* [Designing for Documentation and Assessment](https://playfulmit.github.io/beyond-rubrics/) by MIT Playful Journey Lab
-* [ExplOERer Course](http://www.exploerercourse.org/en/) by Gothenburg University, Open University, and CC Poland
-* [Learning about Learning Circles](https://p2pu.github.io/learning-about-learning-circles/) by P2PU
-* [Queer Cinema for High School](https://queercinema.net/) by Sarah Schrag
+<br>
 
-<br> 
+Kurs został przygotowany w taki sposób, by można go było przeprowadzić w formie klubu wiedzy. Każdą z jego pięciu części można zrealizować w czasie 90-minutowego spotkania. A zatem, biorąc udział w kursie możesz nie tylko dowiedzieć się, czym jest klub wiedzy, ale także sprawdzić „na własnej skórze”, jak to jest w nim uczestniczyć!
 
-#### Need some help?
-Our [community forum](https://community.p2pu.org/c/tech/course-in-a-box/78) is a great place to ask questions or find help when you get stuck. Feel free to post there anytime!
+<br>
 
-You can also hire P2PU to provide support with learning design, technical setup, course customizations, or web hosting. If you’re interested in collaborating on a project, reach out to us at thepeople@p2pu.org
+Kurs podzieliliśmy na pięć modułów, a przejście każdego z nich trwa w przybliżeniu 90 minut. Po ukończeniu tego kursu zdobędziesz wiedzę o klubach wiedzy, narzędziach i zasobach potrzebnych do ich organizowania oraz umiejętności przydatne do ich moderowania. 
 
-<br> 
+<br>
 
-#### About Course-in-a-Box
+Każdy z modułów ma 4 rodzaje aktywności:
 
-P2PU created Course-in-a-Box in 2014 as a free and lightweight tool for building online courses. We wanted to preserve the modular structure of MOOCs outside of the bulky (and often proprietary) environment of learning/content management systems. Course-in-a-Box is open-source, and we welcome contributions [on our Github repo](https://github.com/p2pu/course-in-a-box).
+* ** Rozgrzewka** - to krótkie proste zadanie, które wprowadzi Cię w temat modułu.
+* ** Czytamy i oglądamy** - to główny materiał, pigułka wiedzy.
+* ** Działamy/Mówimy/Myślimy** - to testowanie w praktyce nowo zdobytej wiedzy. 
+* ** Refleksje** - to chwila na zastanawienie się co było ważne, nowe, co warto zmienić...
 
-p.s. Designing a course for learning circles? [Check out the Learning Circle Course Creation guide](https://docs.google.com/document/u/1/d/116fJM3GS7XDzilUOL_ynMZ0yTncUD6aVUbcQKsTra6U/edit#heading=h.l36tzg40xcgr) for some best practices on course design.
+
