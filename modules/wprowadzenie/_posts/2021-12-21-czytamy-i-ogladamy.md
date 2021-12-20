@@ -1,3 +1,6 @@
+---
+title: Czytamy i oglądamy
+---
 # Czytamy i oglądamy
 czas trwania: ok. 30 minut
 
