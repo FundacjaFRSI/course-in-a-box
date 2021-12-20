@@ -1,4 +1,4 @@
-#1 Czytamy i oglądamy
+# Czytamy i oglądamy
 czas trwania: ok. 30 minut
 **Co to jest klub wiedzy (learning circle) i P2PU?**
 Klub wiedzy (learning circle) to grupa osób spotykających się po to, by wspólnie się czegoś uczyć korzystając z darmowych kursów online. Metodę tę wprowadziło Peer 2 Peer University (P2PU). 
