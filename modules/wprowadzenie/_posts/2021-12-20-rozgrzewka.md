@@ -1,3 +1,6 @@
+---
+title: Rozgrzewka
+---
 # Rozgrzewka
 W tym module kursu:
 * poznasz ideę klubów wiedzy, sprawdzisz, jak działa taki klub,
