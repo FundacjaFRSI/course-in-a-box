@@ -33,7 +33,7 @@ Każdy klub ma moderatorkę czy moderatora, którzy nie muszą posiadać wiedzy 
 * przydzielanie zadań,
 * prowadzenie dyskusji w grupie,
 * wspieranie, stymulowanie ciekawości i gotowości do rozwoju.
-* 
+
 ### Są oparte na współpracy
 Podstawowym założeniem w klubach wiedzy jest idea wzajemnego uczenia się, zgodnie z którą ważna jest wiedza i doświadczenie każdej osoby uczestniczącej w spotkaniach. Wzajemne uczenie się opiera się na trzech zasadach:
 * każdy jest ekspertem w jakiejś dziedzinie,
@@ -72,6 +72,7 @@ Przeczytaj kilka wypowiedzi moderatorów i moderatorek klubów wiedzy - to są i
 _Obawiałam się, że w trakcie spotkań uczestnicy zaczną z nich rezygnować, ale okazało się, że odpowiada im forma spotkań, to, że mogą się uczyć wspólnie, dyskutować, oglądać i czytać. Dzięki tym cotygodniowym spotkaniom wytworzył się taki rytuał (czwartkowe spotkania online)._ Iwona
 
 _W przypadku szkoleń online koniecznie zrobić wcześniej szkolenia z obsługi platformy. Podzielić na mniejsze grupy, jeśli będą brać w nich udział osoby powyżej 65 roku życia._ Anita
+
 _Staraj się dać uczestnikom poczucie mocy sprawczej i oddaj im czasem funkcję gospodarza. Ich pomysły są bardzo pomocne, a sugestie dotyczące tematów, sprawiają, że chętniej uczestniczą w Twoim klubie._ Żaneta i Artur
 
 ## Materiały dodatkowe
