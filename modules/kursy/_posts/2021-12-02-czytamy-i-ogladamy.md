@@ -29,3 +29,20 @@ Metoda Q to rodzaj ankiety z propozycjami kursów zamieszczonymi na tablicy ogł
 
 Biorąc pod uwagę wyniki głosowania, Q wybrała dwa kursy, na które oddano najwięcej głosów. Metoda Q doskonale się sprawdza jako sposób na uzyskanie od mieszkańców informacji o ich potrzebach czy zainteresowaniach, a także jako forma promocji klubów wiedzy. Często z niej korzystają moderatorki i moderatorzy klubów na całym świecie, ale może być także używana w innych sytuacjach, np. gdy potrzebujemy opinii w związku z planowaniem strategicznym działań biblioteki lub chcemy zbadać poziom satysfakcji czy zaangażowania.
 
+### Badania fokusowe
+Jeśli chcesz dowiedzieć się więcej o tym, co mieszkańcy myślą o Twojej inicjatywie, warto
+zaprosić do biblioteki kilka osób i spytać ich o ich oczekiwania. W ten sposób nie tylko
+zgromadzisz przydatne informacje i opinie, lecz także poznasz ze sobą ludzi i zbudujesz relacje. Biblioteki w Kenii organizują badania fokusowe jako część szkoleń przygotowujących do uruchomienia klubów wiedzy. 
+
+### Narzędzia online do badań
+* Aby przeprowadzić takie badania, możesz też użyć popularnych narzędzi do tworzenia formularzy ankietowych (np. Formularzy Google, Typeform czy SurveyMonkey). 
+* Możesz też skorzystać z internetowych narzędzi służących do zbierania i współdzielenia pomysłów oraz badania opinii w grupie (np. Tricider, Mentimeter czy AnswerGarden). 
+* Wiele bibliotekarek w Polsce korzysta z jeszcze innej formy - komunikatorów typu Messenger czy WhatsApp. 
+
+✒️ Najważniejsze, żeby skorzystać z takiego narzędzia, które jest znane osobom, do których chcesz dotrzeć. Sprawdź, które z narzędzi aktualnie mają polskie wersje językowe. 
+
+### Partnerstwa w społecznościach
+Odpowiedz sobie na następujące pytania:
+* W jaki sposób badasz i analizujesz potrzeby, zainteresowania i doświadczenia grup odbiorców, z którymi pracujesz na co dzień?
+* Z jakimi grupami aktualnie nie pracujesz, a do których chcesz dotrzeć?
+* Jakie grupy odbiorców mogłyby być zainteresowane klubami wiedzy i odnieść z udziału w nich jakieś korzyści?
