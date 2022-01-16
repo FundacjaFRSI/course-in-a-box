@@ -49,7 +49,8 @@ Możesz śmiało pisać po polsku. Twoje  pytania zostaną przekierowane automat
 Gdy Twój klub wiedzy będzie już utworzony, zostanie automatycznie wygenerowana jego strona, służąca do zapisów uczestników i uczestniczek klubu oraz do promowania klubu. Następnie z adresu _learningcircles_  otrzymasz powiadomienie e-mail zawierające m.in. link do strony zapisów oraz kopię twoich odpowiedzi podanych w kroku 5.
 
 ### Zapisy
-Na stronie klubów wiedzy twoje ogłoszenie będzie wyglądało tak jak poniżej. Możesz też bezpośrednio wykorzystać wspomniany wcześniej link. 
+Na stronie klubów wiedzy twoje ogłoszenie będzie wyglądało tak jak poniżej. Możesz też bezpośrednio wykorzystać wspomniany wcześniej link.
+
 ![opublikowany klub](/img/kafelek_zapisz sie.png)
 
 Po kliknięciu w grafikę Twojego klubu pojawi się formularz zapisu dla uczestnika:
