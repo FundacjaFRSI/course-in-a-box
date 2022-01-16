@@ -14,3 +14,4 @@ Jest dość prawdopodobne, że możliwości dostosowania dostępnej przestrzeni 
 wiedzy będą ograniczone. Ale zawsze możesz dokonać niewielkich zmian, które pozytywnie
 wpłyną na doświadczenie osób uczestniczących w spotkaniach. Na przykład Monika, moderatorka z Nowego Miasta nad Wartą, zachowując pandemiczny dystans zorganizowała spotkanie klubu na leżakach na trawniku przed biblioteką. 
 ![alt](/img/klub-ogrodnika)
+Nowe Miasto nad Wartą
