@@ -13,3 +13,5 @@ W tym module kursu:
 Jest dość prawdopodobne, że możliwości dostosowania dostępnej przestrzeni do klubów wiedzy będą ograniczone. Ale zawsze możesz dokonać niewielkich zmian, które pozytywnie wpłyną na doświadczenie osób uczestniczących w spotkaniach. Na przykład Monika, moderatorka z Nowego Miasta nad Wartą, zachowując pandemiczny dystans zorganizowała spotkanie klubu na leżakach na trawniku przed biblioteką. 
 ![Klub ogrodnika. Nowe Miasto nad Wartą](/img/klub-ogrodnika.png)
 
+Wypiszcie to, co się Wam podoba w Waszej przestrzeni, oraz to, co warto w niej poprawić. Jeżeli spotykacie się online, zastanów się jakie są możliwości zmiany widoku uczestników (układ ekranu, tło). 
+Gdy już skończycie, wymieńcie się swoimi przemyśleniami oraz pomysłami na pozytywne zmiany, jakie można wprowadzić przed kolejnym spotkaniem.
