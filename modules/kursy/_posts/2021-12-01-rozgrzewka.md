@@ -5,6 +5,7 @@ title: Rozgrzewka
 *czas trwania: ok. 10 minut*
 
 W tym module kursu:
+* jak określić cele klubów wiedzy i odpowiedzieć na potrzeby ich uczestników,
 * poznasz takie pojęcia, jak OZE i MOOC,
 * dowiesz się, na czym polega kształcenie i uczenie się online,
 * nauczysz się wyszukiwać i oceniać kursy online do wykorzystania w klubach wiedzy,
