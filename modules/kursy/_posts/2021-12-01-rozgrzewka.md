@@ -14,4 +14,4 @@ W tym module kursu:
 W bazie P2PU znajdują się kursy, które zostały już wykorzystane przez inne kluby wiedzy. W tej części spotkania przejrzyjcie szybko dostępne kursy, sprawdźcie, jak można je  wyszukiwać i jak działają filtry. Po ok. 5 minutach samodzielnej pracy podzielcie się  wrażeniami z pozostałymi osobami w grupie. Pytania do dyskusji:
 * W jakich językach najczęściej są dostępne kursy?
 * Który kurs był najczęściej wykorzystywany przez kluby wiedzy?
-* Czy udało Ci się znaleźć jakiś kurs, który chiał/a/byś moderować? Jeśli tak, to jaki?
+* Czy udało Ci się znaleźć jakiś kurs, który chciał/a/byś moderować? Jeśli tak, to jaki?
