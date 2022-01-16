@@ -82,25 +82,16 @@ Potrzebujesz konta P2PU po to, by utworzyć klub wiedzy i nim zarządzać. Uczes
 
 ### Co znajdziemy na stronach klubów wiedzy i P2PU?
 Strona [P2PU](https://www.p2pu.org/en/) daje dostęp do narzędzi i materiałów, których potrzebujesz, by prowadzić kluby wiedzy. Oto niektóre z nich:
-
 [panel administracyjny dla moderatorów i moderatorek](https://learningcircles.p2pu.org/en/): w tym miejscu możesz tworzyć kluby wiedzy, zarządzać nimi i dzielić się opiniami. Są tam również wyświetlane najnowsze informacje od społeczności P2PU, w tym linki do dyskusji na forum, ostatnio dodane kursy oraz lista rozpoczynających się klubów wiedzy na całym świecie.
- 
 [baza wiedzy](https://docs.p2pu.org/): przydatne materiały zebrane przez społeczność moderatorów P2PU;
-
 [zapisy do klubów wiedzy](http://p2pu.org/learning-circles): tu można znaleźć aktualnie dostępne kluby wiedzy z całego świata;
-
 [kursy](https://www.p2pu.org/courses/): tu znajdziesz wszystkie kursy wykorzystane dotychczas przez kluby wiedzy. Bazę kursów tworzy cała społeczność, co oznacza, że ty też możesz dodać swój kurs;
-
 [forum społeczności P2PU](http://community.p2pu.org/): forum dyskusyjne dla moderatorów i moderatorek klubów wiedzy (skorzystaj z danych do logowania na konto P2PU);
-
 [Blog](https://info.p2pu.org/): aktualności i informacje od zespołu P2PU.
  
 Dodatkowo mamy stronę [klubów wiedzy](https://klubywiedzy.p2pu.org/) po polsku, na której znajdziesz: 
-
 [kluby wiedzy](https://klubywiedzy.p2pu.org/) z aktualnie otwartym naborem i możliwością zapisania się (tutaj pojawi się ogłoszenie o Twoim klubie wiedzy);
-
 podstawowe informacje [o klubach wiedzy](https://klubywiedzy.p2pu.org/about);
-
 [Bazę materiałów](https://klubywiedzy.p2pu.org/facilitate) dla moderatorów klubów wiedzy, w tym bazę kursów, m.in. tych dostępnych w jęz. polskim. 
 
 ### Materiały dodatkowe
