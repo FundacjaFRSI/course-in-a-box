@@ -72,7 +72,8 @@ Nie musisz mieć wiedzy eksperckiej w dziedzinie, której dotyczy kurs, aby z po
 * Czy kurs można dostosować do własnego tempa uczenia się? A jeśli zawiera on datę rozpoczęcia i zakończenia nauki, to czy zgadzają się one z terminami spotkań klubu?
 * Czy zakładany czas „przejścia” kursu odpowiada Twoim oczekiwaniom i potrzebom klubu?
 * Czy kurs wymaga dostępu do dodatkowych materiałów lub oprogramowania innego niż przeglądarka internetowa czy edytor tekstu? A jeśli tak, to czy możesz zapewnić grupie taki dostęp?  
-Dostosowywanie kursów
+
+### Dostosowywanie kursów
 Gdy wiesz już, które kursy chcesz wykorzystać w swoim klubie wiedzy, kolejnym krokiem będzie dostosowanie ich do formuły klubu. Tak jak wspomnieliśmy w pierwszym module, nie wszystkie kursy online są przyjazne klubom wiedzy i niektóre trzeba zmodyfikować. Co zatem sprawia, jakie cechy powinien posiadać kurs, żeby był przyjazny klubom wiedzy?
 We wrześniu 2019 zespół P2PU zapytał o to moderatorów i moderatorki klubów wiedzy, podczas dorocznego spotkania w Bibliotece Publicznej w Bostonie. Oto ich odpowiedzi:
 * wolny dostęp, 
