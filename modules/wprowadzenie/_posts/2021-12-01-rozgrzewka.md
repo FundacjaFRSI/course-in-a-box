@@ -12,6 +12,7 @@ W tym module kursu:
 **Przedstawienie się uczestniczek i uczestników spotkania**
 
 ✒️ Na początku niech wszyscy usiądą w kręgu, tak aby wszystkie osoby widziały się nawzajem. Zapytaj na przykład o daty ich urodzin – ta osoba, której urodziny będą najwcześniej, niech przedstawi się jako pierwsza! 
+
 💻 Jeśli to spotkanie online to poproś wszystkich o włączenie kamerki.
 
 * Jeśli grupa dobrze się zna, opowiedzcie o swoich oczekiwaniach związanych z tym kursem i o swoich doświadczeniach z prowadzenia zajęć edukacyjnych (jeśli ktoś już ma takie doświadczenia).
