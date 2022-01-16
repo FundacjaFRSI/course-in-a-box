@@ -11,7 +11,7 @@ Przyjrzyj się następującym pytaniom. Jeśli znasz już na nie odpowiedzi, wpi
 
 Formularz - szablon do tworzenia klubu jest w jęz. angielskim, ale na polskiej stronie klubów wiedzy znajdziesz przewodnik po polsku “Formularze P2PU po polsku”. 
 
-_Po 10 minutach spotkajcie się w pełnej grupie, żeby się upewnić czy wszystko jest jasne. Potem ponownie wróćcie do grup na kolejne 15 minut. _
+_Po 10 minutach spotkajcie się w pełnej grupie, żeby się upewnić czy wszystko jest jasne. Potem ponownie wróćcie do grup na kolejne 15 minut._
 
 * Co zamierzasz osiągnąć jako moderatorka/moderator klubu wiedzy?
 * W jaki sposób wybierzesz temat spotkań klubu? Czy potrzebne jest badanie potrzeb, zanim wybierzesz kurs?
