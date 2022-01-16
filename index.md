@@ -20,4 +20,5 @@ Każdy z modułów ma 4 rodzaje aktywności:
 * **Refleksje** - to chwila na zastanowienie się co było ważne, nowe, co warto zmienić...
 
 ✒️ - tak zaznaczamy dodatkowe wskazówki dotyczące moderowania
+
 💻 - tak zaznaczamy dodatkowe wskazówki dotyczące spotkań online
