@@ -23,9 +23,10 @@ Konto P2PU (konto moderatora klubów wiedzy) jest aktualnie dostępne wyłączni
 ![zakładanie konta](/img/konto_P2PU.png)
 
 * _First&Last name_ = imię i nazwisko
-* _Email address_= adres e-mail, na który za chwilę otrzymasz prośbę o weryfikację tego adresu (mail o tytule “Please confirm your email address”. Czasem mail trafia do spamu - szukaj maila od nadawcy “P2PU” lub “learningcircles”. Koniecznie kliknij w przycisk “Confirm your email address”, inaczej konto zostanie wersji roboczej i nie będzie można opublikować utworzonego klubu wiedzy! 
+* _Email address_ = adres e-mail, na który za chwilę otrzymasz prośbę o weryfikację tego adresu (mail o tytule “Please confirm your email address”. Czasem mail trafia do spamu - szukaj maila od nadawcy “P2PU” lub “learningcircles”. Koniecznie kliknij w przycisk “Confirm your email address”, inaczej konto zostanie wersji roboczej i nie będzie można opublikować utworzonego klubu wiedzy! 
 * _Password/Password confirmation_ = hasło/powtórz hasło
 * _P2PU can contact me_ = P2PU może się ze mną kontaktować -  zaznacz jeśli chcesz otrzymywać dodatkowe informacje o wydarzeniach w społeczności P2PU
 * _I consent to P2PU storing my data and accept the terms of service. P2PU values your privacy and will never sell your data_ = Zgadzam się na przetwarzanie moich danych przez P2PU i na regulamin P2PU.  P2PU szanuje Twoją prywatność i nigdy nie sprzeda Twoich danych. 
 * _Create my account_ = utwórz moje konto
+* 
 **Gotowe!** 
