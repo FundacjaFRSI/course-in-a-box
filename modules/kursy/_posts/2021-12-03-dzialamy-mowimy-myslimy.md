@@ -38,6 +38,7 @@ Oceń wybrany kurs korzystając z poniższych pytań pomocniczych.
 * Jakich materiałów lub dodatkowych zasobów potrzebujesz, aby efektywnie korzystać z kursu w swoim klubie wiedzy?
 * Jak możesz wykorzystać strukturę kursu w do pracy grupowej? Jak wyobrażasz sobie współpracę uczestników i uczestniczek klubu przy zapoznawaniu się z materiałami kursu?
 * Czy kurs zawiera jakieś aktywności do wykonania w grupie? Jeśli tak, które z nich i w jaki sposób chcesz przeprowadzić w swoim klubie? Jeśli nie, jakie aktywności możesz dodać?
+
 💻 Jeśli planujesz klub wiedzy online sprawdź czy kurs jest przystosowany do zajęć zdalnych - w razie czego skróć kurs lub wydłuż klub wiedzy, dodaj nowe/inne aktywności, zrezygnuj z niektórych fragmentów. 
  
 Po zakończeniu ćwiczenia powróćcie do pełnej grupy i poświęćcie dodatkowe 15 minut na podzielenie się swoimi przemyśleniami z pozostałymi. Niech każda mniejsza grupa opowie o przykładowym kursie, jaki wybrała i najciekawszych spostrzeżeniach oraz pomysłach, jakie pojawiły się w trakcie ćwiczenia. 
