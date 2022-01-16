@@ -71,7 +71,7 @@ Ze względu na ograniczone możliwości kontaktów osobistych w czasie pandemii,
 * Dodawanie krótkiej zapowiedzi o rozpoczęciu działalności klubu do wypożyczanych książek, plakaty w bibliotece i innych miejscach dostępnych i uczęszczanych mimo pandemii. 
 * Zaproszenie kierowane nie tylko do lokalnej społeczności. Jedną z zalet nauki online jest to, że likwiduje ona wszelkie bariery geograficzne! Pomyśl o tych, którzy do tej pory mieli za daleko, nie mogli dojechać…
 
-Promocja offline
+### Promocja offline
 Promocja offline może być skutecznym sposobem dotarcia do osób, które nie korzystają z narzędzi online, warto jednak dobrze przemyśleć takie działania i starać się prowadzić je odpowiedzialnie. Możesz zamieścić ulotki z informacjami o klubie na tablicach ogłoszeń, w przestrzeni publicznej (np. w parku) czy obok ważnych instytucji lub firm, przestrzegając obowiązujących zasad. 
 
 ## Zarządzanie klubem wiedzy
