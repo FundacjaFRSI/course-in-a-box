@@ -23,7 +23,9 @@ To, że ty się zaangażujesz nie oznacza, że trafi Ci się tak samo zaangażow
 ## Diagnoza potrzeb społeczności
 Zanim wybierzesz kurs i uruchomisz klub wiedzy, rozważ przeprowadzenie wśród mieszkańców prostego badania, które pomoże Ci lepiej zrozumieć ich sytuację i potrzeby. Jeśli chcesz poznać zdanie szerszego grona odbiorców, np. osób z listy mailingowej Twojej biblioteki, potrzebna będzie Ci bardziej zaawansowana metoda zbierania opinii niż bezpośrednia rozmowa. Niżej proponujemy kilka metod przeprowadzenia takiego badania.
 ### Metoda Q
-Metoda Q to rodzaj ankiety z propozycjami kursów zamieszczonymi na tablicy ogłoszeń, na które zainteresowane osoby mogą oddawać swoje głosy. Nazwaliśmy ją tak od imienia Qumishy (znanej jako Q), bibliotekarki z Biblioteki Publicznej w Detroit, która jest pomysłodawczynią tej metody i stosuje ją w klubie wiedzy działającym w jej filii.
+Metoda Q to rodzaj ankiety z propozycjami kursów zamieszczonymi na tablicy ogłoszeń, na które zainteresowane osoby mogą oddawać swoje głosy. Nazwaliśmy ją tak od imienia Qumishy (znanej jako Q), bibliotekarki z Biblioteki Publicznej w Detroit, która jest pomysłodawczynią tej metody i stosuje ją w klubie wiedzy działającym w jej filii. 
+
 ![metodaQ](/img/metodaQ.jpg)
+
 Biorąc pod uwagę wyniki głosowania, Q wybrała dwa kursy, na które oddano najwięcej głosów. Metoda Q doskonale się sprawdza jako sposób na uzyskanie od mieszkańców informacji o ich potrzebach czy zainteresowaniach, a także jako forma promocji klubów wiedzy. Często z niej korzystają moderatorki i moderatorzy klubów na całym świecie, ale może być także używana w innych sytuacjach, np. gdy potrzebujemy opinii w związku z planowaniem strategicznym działań biblioteki lub chcemy zbadać poziom satysfakcji czy zaangażowania.
 
