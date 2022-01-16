@@ -17,6 +17,6 @@ Każdy z modułów ma 4 rodzaje aktywności:
 * **[Rozgrzewka](https://fundacjafrsi.github.io/course-in-a-box/modules/wprowadzenie/rozgrzewka/)** - to krótkie proste zadanie, które wprowadzi Cię w temat modułu.
 * **Czytamy i oglądamy** - to główny materiał, pigułka wiedzy.
 * **Działamy/Mówimy/Myślimy** - to testowanie w praktyce nowo zdobytej wiedzy. 
-* **Refleksje** - to chwila na zastanawienie się co było ważne, nowe, co warto zmienić...
+* **Refleksje** - to chwila na zastanowienie się co było ważne, nowe, co warto zmienić...
 
 
