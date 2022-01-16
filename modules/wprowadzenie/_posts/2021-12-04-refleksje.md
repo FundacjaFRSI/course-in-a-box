@@ -4,6 +4,7 @@ title: Refleksje
 # Refleksje
 
 *czas trwania: ok. 15 minut*
+
 Po ukończeniu tego modułu wiesz już, czym są kluby wiedzy, wiesz co znajdziesz na stronie klubów wiedzy i stronie P2PU, wiesz też, jakiego wsparcia może Ci udzielić społeczność klubów wiedzy na całym świecie. Być może było to Twoje pierwsze spotkanie klubu wiedzy! Tak, jak wspomnieliśmy wcześniej, ważnym elementem procesu uczenia się jest refleksja. Dlatego sugerujemy, by ostatnią część spotkania klubu zawsze przeznaczać na rundę podsumowującą, w czasie której uczestnicy i uczestniczki dzielą się swoimi przemyśleniami. To świetna okazja, by właśnie teraz wykonać to zadanie!
  
 Poświęćcie 5 minut, aby indywidualnie odpowiedzieć sobie na poniższe pytania. Można też robić notatki, jeśli jest to dla kogoś pomocne. Pozostały czas wykorzystajcie na podzielenie się przemyśleniami z pozostałymi osobami w grupie. 
