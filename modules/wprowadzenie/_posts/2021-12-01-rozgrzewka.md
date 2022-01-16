@@ -15,7 +15,6 @@ Na początku niech wszyscy usiądą w kręgu, tak aby wszystkie osoby widziały 
 * Jeśli grupa dobrze się zna, opowiedzcie o swoich oczekiwaniach związanych z tym kursem i o swoich doświadczeniach z prowadzenia zajęć edukacyjnych (jeśli ktoś już ma takie doświadczenia).
 * Jeśli wcześniej się nie znaliście, zacznijcie od podania swoich imion oraz odpowiedzi na neutralne pytania, np. „W jaki sposób dotarłeś/dotarłaś na spotkanie?”
 
-Wskazówka:
 Możesz wybrać dowolne inne pytanie żeby wybrać osobę, która zaczyna się przedstawiać i żeby wskazać o czym powie. 
  
 Jeśli to spotkanie online to poproś wszystkich o włączenie kamerki. Upewnij się czy wszyscy słyszą, widzą i czy działają im mikrofony i kamerki. Jeżeli podejrzewasz, że ktoś może mieć z tym kłopot, zanim zaczniecie spotkania klubów wiedzy przeprowadź indywidualną próbę. 
