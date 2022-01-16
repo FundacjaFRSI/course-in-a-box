@@ -26,13 +26,13 @@ Uczestnicy byli tak zadowoleni z udziału i tak chwalili klub wiedzy, że kolejn
 
 ## Moderowanie
 
-_Twoim zadaniem, jako moderatorki / moderatora klubu wiedzy, jest ułatwianie innym uczenia się. Jesteś jak tata, babcia, starsza siostra, cheerleaderka, lekarz, psycholożka, terapeuta, budowniczy czy pasjonat technologii. To spora odpowiedzialność i ogromna praca! 
+_Twoim zadaniem, jako moderatorki / moderatora klubu wiedzy, jest ułatwianie innym uczenia się. Jesteś jak tata, babcia, starsza siostra, cheerleaderka, lekarz, psycholożka, terapeuta, budowniczy czy pasjonat technologii. To spora odpowiedzialność i ogromna praca!_ 
 
-Gdy odgrywasz te wszystkie role online, mierzysz się z dodatkowym wyzwaniem, bo może się zdarzyć, że nie będziesz widzieć czyjejś twarzy czy słyszeć głosu, nie dostrzeżesz czyjejś mowy ciała i nie rozwiążesz jakiegoś technicznego problemu. Pamiętaj też, że ludzie są różni. Niektóre osoby są nieśmiałe, inne przebojowe, jedni mówią mało, inni zbyt dużo. Może się zdarzyć ktoś, kto zachowa się w sposób nieuprzejmy. 
+_Gdy odgrywasz te wszystkie role online, mierzysz się z dodatkowym wyzwaniem, bo może się zdarzyć, że nie będziesz widzieć czyjejś twarzy czy słyszeć głosu, nie dostrzeżesz czyjejś mowy ciała i nie rozwiążesz jakiegoś technicznego problemu. Pamiętaj też, że ludzie są różni. Niektóre osoby są nieśmiałe, inne przebojowe, jedni mówią mało, inni zbyt dużo. Może się zdarzyć ktoś, kto zachowa się w sposób nieuprzejmy._ 
 
-Twoim zadaniem jest zapanować nad grupą: zmotywować tych, którzy niechętnie zabierają głos i pohamować takich, którzy udzielają się zbyt intensywnie. Jesteś gospodarzem/gospodynią tej imprezy i zależy Ci na tym, by wszyscy dobrze się bawili. Dużym wyzwaniem jest stworzenie w grupie takiej atmosfery, by każda osoba czuła się dobrze i mogła zrealizować swój cel.
+_Twoim zadaniem jest zapanować nad grupą: zmotywować tych, którzy niechętnie zabierają głos i pohamować takich, którzy udzielają się zbyt intensywnie. Jesteś gospodarzem/gospodynią tej imprezy i zależy Ci na tym, by wszyscy dobrze się bawili. Dużym wyzwaniem jest stworzenie w grupie takiej atmosfery, by każda osoba czuła się dobrze i mogła zrealizować swój cel._
 
-Trzeba też pamiętać o tym, że każdy ma swoje doświadczenie, swoją perspektywę i historię, co oznacza, że od każdej osoby można się czegoś nauczyć. Z takim nastawieniem Twoja praca stanie się o wiele prostsza…_
+_Trzeba też pamiętać o tym, że każdy ma swoje doświadczenie, swoją perspektywę i historię, co oznacza, że od każdej osoby można się czegoś nauczyć. Z takim nastawieniem Twoja praca stanie się o wiele prostsza…_
 
 Jan Docka, Biblioteka Publiczna w Roselle, Illinois
 
@@ -68,13 +68,14 @@ Już w czasie pierwszej godziny spotkania zaczynają tworzyć się w grupie wię
 
 Uczestnicy i uczestniczki spotkań mogą zadawać Ci wiele pytań merytorycznych, ponieważ z ich perspektywy będziesz osobą najbardziej kojarzącą się z tradycyjnym nauczaniem. W takiej sytuacji warto zaznaczyć, że pozostałe osoby również stanowią wartościowe źródło informacji, a ktoś zapewne zna odpowiedź na zadane pytanie. Możesz zareagować mówiąc na przykład: Nie jestem pewna. Czy zapytałeś kogoś jeszcze? Może ktoś już zetknął się z tym problemem? Czy wiecie, gdzie można by poszukać odpowiedzi na to pytanie? Staraj się raczej sugerować, a nie podawać konkretne instrukcje.
 
-_Kiedy pierwsza grupa polskich bibliotekarzy uczyła się o klubach wiedzy, jedna z grup roboczych zgłosiła problem, że nie działa jakaś funkcja formularza. Moderujący spotkanie z FRSI nie wiedzieli jak rozwiązać ten problem, ale gdy cała grupa się spotkała, żeby omówić prace w zespołach, okazało się, że w innym zespole też pojawił się ten problem i udało im się go rozwiązać. _
+_Kiedy pierwsza grupa polskich bibliotekarzy uczyła się o klubach wiedzy, jedna z grup roboczych zgłosiła problem, że nie działa jakaś funkcja formularza. Moderujący spotkanie z FRSI nie wiedzieli jak rozwiązać ten problem, ale gdy cała grupa się spotkała, żeby omówić prace w zespołach, okazało się, że w innym zespole też pojawił się ten problem i udało im się go rozwiązać._
 
 **Zachęcaj do częstych, grupowych interakcji**
 
 Więzi społeczne i emocjonalne pełnią w grupie podwójną rolę: ułatwiają poszczególnym osobom uczenie się i pomagają budować wspólnotę. Szukaj sposobności do tego, by podsumować dotychczasowe interakcje i wywoływać nowe, uwzględniajac świeżą perspektywę czy nowy punkt widzenia. Gdy zachowania czy dyskusje części osób zaczynają odbiegać od tego, czym zajmuje się grupa, nie wahaj się interweniować, aby przywrócić te osoby na właściwe tory. Inni z pewnością to docenią.
 
 **Zarządzaj oczekiwaniami**
+
 Gdy uczymy się nowych rzeczy, początkowy optymizm może łatwo zmienić się w rozczarowanie. Aby temu zapobiec, podkreślaj, że wierzysz w to, iż Twoi podopieczni osiągną swoje cele. Pamiętaj jednak, że trzeba realistycznie oceniać swoje możliwości i że nie wszystko da się osiągnąć w 6 tygodni. Jest mało prawdopodobne, by ktoś, kto nie miał wcześniejszego doświadczenia z programowaniem, zdobył świetną pracę w branży IT po przejściu jednego kursu o HTML/CSS na spotkaniach w klubie wiedzy. Z pewnością jednak zdobędzie podstawową wiedzę o tym, jak stworzyć stronę internetową, sprawdzi, czy jest to tematyka, którą chciałby zajmować się w przyszłości i pozna osoby o podobnych zainteresowaniach.
 
 **Zachęcaj do rozwoju**
@@ -82,6 +83,7 @@ Gdy uczymy się nowych rzeczy, początkowy optymizm może łatwo zmienić się w
 Nastawienie na rozwój to przekonanie o tym, że posiadaną wiedzę i umiejętności można nieustannie rozwijać, pracując nad sobą przez całe życie i wkładając w to znaczny wysiłek. Jako moderator/moderatorka staraj się doceniać ten wysiłek, podejście, czy strategie, jakie wypracowują osoby w Twoim klubie, zamiast ich talentów lub wrodzonych zdolności (np. nie mów „jesteś taka inteligentna!”).
 
 **Obracaj frustrację w satysfakcję**
+
 Staraj się przekształcać negatywne przekazy w pozytywne i angażuj do tego grupę. Na przykład, gdy uczestnikom klubu wiedzy na temat zdobywania pracy nie podobają się zawarte w kursie wskazówki dotyczące rozmowy kwalifikacyjnej, zapytaj, czy mają pomysły na to, jak je ulepszyć. Przekonasz się, że materiały kursów online są często punktem wyjścia i pretekstem do tego, by podzielić się własną wiedzą czy osobistymi doświadczeniami.
 
 **Deleguj zadania**
