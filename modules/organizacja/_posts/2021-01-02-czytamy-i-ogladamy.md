@@ -125,13 +125,11 @@ Moderatorki i moderatorzy klubów wiedzy mają do dyspozycji w swoich instytucja
 
 **Jitsi Meet: https://meet.jit.si/**
 
-Platforma do wideokonferencji z funkcją czatu i udostępnienia ekranu. Jitsi jest darmowym narzędziem Open Source (o otwartym kodzie) do prowadzenia wideokonferencji, zapewniającym bezpieczne połączenia audio i wideo. Nie wymaga tworzenia konta ani pobierania i instalowania oprogramowania. Wystarczy stworzyć i skopiować link, za pomocą którego osoby uczestniczące dołączą do spotkania. Jitsi działa w większości przeglądarek internetowych a na smartfonach z systemami operacyjnymi iOS i Android po pobraniu darmowej aplikacji.
+Platforma do wideokonferencji z funkcją czatu, udostępnienia ekranu i podziału na pokoje (podgrupy). Jitsi jest darmowym narzędziem Open Source (o otwartym kodzie) do prowadzenia wideokonferencji, zapewniającym bezpieczne połączenia audio i wideo. Nie wymaga tworzenia konta ani pobierania i instalowania oprogramowania. Wystarczy stworzyć i skopiować link, za pomocą którego osoby uczestniczące dołączą do spotkania. Jitsi działa w większości przeglądarek internetowych a na smartfonach z systemami operacyjnymi iOS i Android po pobraniu darmowej aplikacji.
 
 * Maksymalna liczba uczestników: zalecane jest nieprzekraczanie liczby 35 osób połączonych w tym samym czasie. Według naszych doświadczeń jakość połączenia zaczyna spadać, gdy w spotkaniu uczestniczy więcej niż 12 osób.
 
 * Prywatność / szyfrowanie: Jitsi szyfruje dane przesyłane przez uczestników spotkań (lokalizację, tożsamość). Adres spotkania udostepnij tylko uczestnikom spotkania (nie publikuj na stronie), poniewaz każdy kto ma link może wejść na spotkanie. Jeżeli jest taka potrzeba to pierwsza osoba, która wejdzie na spotkanie może ustawić hasło i przekazać je pozostałym uczestnikom.
-
-* Podział na grupy: Jitsi nie ma funkcji podziału na pokoje, ale wystarczy utworzyć wcześniej dodatkowe adresy spotkań dodając do głównego adresu “1,2,3…”  lub dowolną inna krótką nazwę (np. linkspotkania1, linkspotkania2). Uczestnicy będą przechodzić między pokojami dodając lub kasując z adresu w przeglądarce symbol pokoju. 
 
 **Etherpad: https://etherpad.org/**
 
