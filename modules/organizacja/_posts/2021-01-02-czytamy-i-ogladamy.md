@@ -55,7 +55,7 @@ Na stronie klubów wiedzy twoje ogłoszenie będzie wyglądało tak jak poniżej
 
 Po kliknięciu w grafikę Twojego klubu pojawi się formularz zapisu dla uczestnika:
 
-https://frsi.org.pl/wp-content/uploads/2022/01/Form_zapisy.png
+![alt](/img/Form_zapisy.png)
 
 Często osoby zapisujące mają opór przed podaniem swojego adresu mailowego czy numeru telefonu. Strona jest bezpieczna a dane są wykorzystywane wyłącznie do komunikacji w trakcie trwania klubów wiedzy. P2PU ani FRSI nikomu nie udostępnia tych danych. 
 
