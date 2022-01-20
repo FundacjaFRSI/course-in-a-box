@@ -30,7 +30,7 @@ Zalecamy zaplanowanie pierwszego spotkania z co najmniej sześciotygodniowym wyp
 
 ## Jak utworzyć klub wiedzy na stronie P2PU?
 
-Gdy już wiesz, z jakiego kursu skorzystasz w swoim klubie i masz już wybrane miejsce na spotkania, najwyższy czas, by utworzyć klub wiedzy na stronie P2PU! Proces tworzenia klubu składa się z pięciu kroków. Jeżeli masz już konto moderatora, zaloguj się i kliknij w napis “start a learning circle”  (utwórz klub wiedzy). Możesz również [zapoznać się](https://learningcircles.p2pu.org/en/studygroup/create/) z nimi bez logowania. Szablon do tworzenia klubu jest w jęz. angielskim, ale na polskiej stronie klubów wiedzy znajdziesz przewodnik po polsku “Formularze P2PU po polsku”. 
+Gdy już wiesz, z jakiego kursu skorzystasz w swoim klubie i masz już wybrane miejsce na spotkania, najwyższy czas, by utworzyć klub wiedzy na stronie P2PU! Proces tworzenia klubu składa się z pięciu kroków. Jeżeli masz już konto moderatora, zaloguj się i kliknij w napis “start a learning circle”  (utwórz klub wiedzy). Możesz również [zapoznać się](https://learningcircles.p2pu.org/en/studygroup/create/) z nimi bez logowania. Szablon do tworzenia klubu jest w jęz. angielskim, ale na polskiej stronie klubów wiedzy znajdziesz przewodnik po polsku [Formularze P2PU po polsku] (https://frsi.org.pl/wp-content/uploads/2022/01/Formularze_P2PU_PL.pdf). 
 
 **Formularz tworzenia klubu wiedzy skąłda się z 5 kroków:**
 Krok 1: wybór kursu. 
