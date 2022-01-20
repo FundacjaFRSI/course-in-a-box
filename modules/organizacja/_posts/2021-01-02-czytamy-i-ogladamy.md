@@ -51,11 +51,11 @@ Gdy Twój klub wiedzy będzie już utworzony, zostanie automatycznie wygenerowan
 ### Zapisy
 Na stronie klubów wiedzy twoje ogłoszenie będzie wyglądało tak jak poniżej. Możesz też bezpośrednio wykorzystać wspomniany wcześniej link.
 
-![opublikowany klub](/img/kafelek_zapisz sie.png)
+![alt](https://frsi.org.pl/wp-content/uploads/2022/01/Kafelek_zapisz-sie.png)
 
 Po kliknięciu w grafikę Twojego klubu pojawi się formularz zapisu dla uczestnika:
 
-![formularz zapisów](/img/form_zapisy.png)
+https://frsi.org.pl/wp-content/uploads/2022/01/Form_zapisy.png
 
 Często osoby zapisujące mają opór przed podaniem swojego adresu mailowego czy numeru telefonu. Strona jest bezpieczna a dane są wykorzystywane wyłącznie do komunikacji w trakcie trwania klubów wiedzy. P2PU ani FRSI nikomu nie udostępnia tych danych. 
 
@@ -140,7 +140,7 @@ Etherpada używamy, gdy chcemy udostępnić plan spotkania, przekazać instrukcj
 
 P2PU posiada własną instalację Etherpada w swojej domenie, z której możesz skorzystać moderując kluby wiedzy. Wystarczy odwiedzić stronę https://etherpad.p2pu.org/, pobrać lub utworzyć własny link do spotkania wpisując dowolną jego nazwę. Etherpad udostępnia też wikimedia: https://etherpad.wikimedia.org/. 
 
-![etherpad](/img/etherpad.png)
+![alt](https://frsi.org.pl/wp-content/uploads/2022/01/etherpad.png)
 
 ## Przygotowanie uczestników
 
