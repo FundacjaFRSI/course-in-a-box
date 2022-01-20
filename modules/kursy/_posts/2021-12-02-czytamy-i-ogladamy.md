@@ -25,7 +25,7 @@ Zanim wybierzesz kurs i uruchomisz klub wiedzy, rozważ przeprowadzenie wśród 
 ### Metoda Q
 Metoda Q to rodzaj ankiety z propozycjami kursów zamieszczonymi na tablicy ogłoszeń, na które zainteresowane osoby mogą oddawać swoje głosy. Nazwaliśmy ją tak od imienia Qumishy (znanej jako Q), bibliotekarki z Biblioteki Publicznej w Detroit, która jest pomysłodawczynią tej metody i stosuje ją w klubie wiedzy działającym w jej filii. 
 
-![metodaQ](/img/metodaQ.jpg)
+![metoda Q](https://frsi.org.pl/wp-content/uploads/2022/01/metodaQ.jpg)
 
 Biorąc pod uwagę wyniki głosowania, Q wybrała dwa kursy, na które oddano najwięcej głosów. Metoda Q doskonale się sprawdza jako sposób na uzyskanie od mieszkańców informacji o ich potrzebach czy zainteresowaniach, a także jako forma promocji klubów wiedzy. Często z niej korzystają moderatorki i moderatorzy klubów na całym świecie, ale może być także używana w innych sytuacjach, np. gdy potrzebujemy opinii w związku z planowaniem strategicznym działań biblioteki lub chcemy zbadać poziom satysfakcji czy zaangażowania.
 
