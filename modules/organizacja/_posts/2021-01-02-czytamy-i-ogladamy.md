@@ -140,7 +140,7 @@ Etherpada używamy, gdy chcemy udostępnić plan spotkania, przekazać instrukcj
 
 P2PU posiada własną instalację Etherpada w swojej domenie, z której możesz skorzystać moderując kluby wiedzy. Wystarczy odwiedzić stronę https://etherpad.p2pu.org/, pobrać lub utworzyć własny link do spotkania wpisując dowolną jego nazwę. Etherpad udostępnia też wikimedia: https://etherpad.wikimedia.org/. 
 
-![alt](https://frsi.org.pl/wp-content/uploads/2022/01/etherpad.png)
+![alt](/img/etherpad.png)
 
 ## Przygotowanie uczestników
 
