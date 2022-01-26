@@ -12,5 +12,5 @@ Podręcznik Jak prowadzić klub wiedzy? opracowaliśmy po to, by pomóc moderato
 * Część 4. [Kluby wiedzy online](https://biblioteki.org/dam/jcr:78e690b5-008e-4c9e-9766-9aa3f6d1350b/Jak_prowadzic_klub_wiedzy_Cz_4_Kluby_online.pdf) - zawiera wskazówki dotyczące tego, jak prowadzić kluby wiedzy w formie spotkań online.
 
 ## Przygotuj się do klubów wiedzy \
-Ten mini kurs online (całoścć zajmie Ci nie więcej niż pół godziny) pozwoli Ci sprawdzić Twoje podejście do nowych technologii i nowych wyzwań edukacyjnych. 
+Ten mini kurs online (całość zajmie Ci nie więcej niż pół godziny) pozwoli Ci sprawdzić Twoje podejście do nowych technologii i nowych wyzwań edukacyjnych. 
 [Przygotuj się do klubu wiedzy!](https://sites.google.com/frsi.org.pl/przygotuj-sie-do-klubu-wiedzy) - to strona, która zawiera 3 filmiki oraz proste testy dotyczące trzech tematów: gotowości do kotrzystania z technologii, zainteresowań zawodowych i stylów uczenia się. 
