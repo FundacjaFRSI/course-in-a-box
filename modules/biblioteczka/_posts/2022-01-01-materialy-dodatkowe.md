@@ -3,7 +3,7 @@ title: Materiały dodatkowe
 ---
 # Materiały dodatkowe
 
-## Podręczniki Jak prowadzic kluby wiedzy cz.1-4
+## Podręczniki _Jak prowadzic kluby wiedzy cz.1-4_
 
 Podręcznik Jak prowadzić klub wiedzy? opracowaliśmy po to, by pomóc moderatorom i moderatorkom klubów wiedzy przygotować się do tego zadania. Podręcznik składa się z czterech części. 
 * Część 1. [Co trzeba wiedzieć o klubach wiedzy?](https://biblioteki.org/dam/jcr:2190dfb3-683c-4f74-9091-f6a5db6b1ae3/Jak_prowadzic_klub_wiedzy_Cz_1_Co_trzeba_wiedziec.pdf) - przybliża koncepcję oraz metodologię klubów wiedzy (learning circles), autorstwa Peer 2 Peer University (P2PU); 
