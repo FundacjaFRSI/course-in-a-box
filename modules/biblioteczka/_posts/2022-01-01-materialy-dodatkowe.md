@@ -15,3 +15,8 @@ Podręcznik Jak prowadzić klub wiedzy? opracowaliśmy po to, by pomóc moderato
 
 Ten mini kurs online (całość zajmie Ci nie więcej niż pół godziny) pozwoli Ci sprawdzić Twoje podejście do nowych technologii i nowych wyzwań edukacyjnych. \
 [Przygotuj się do klubu wiedzy!](https://sites.google.com/frsi.org.pl/przygotuj-sie-do-klubu-wiedzy) - to strona, która zawiera 3 filmiki oraz proste testy dotyczące trzech tematów: gotowości do kotrzystania z technologii, zainteresowań zawodowych i stylów uczenia się. 
+
+## Podręcznik J_ak prowadzić szkolenia online_
+
+[Jak prowadzić szkolenia online](https://frsi.org.pl/wp-content/uploads/2021/01/Jak_prowadzic_szkolenia_online_poradnik.pdf) to poradnik, w którym podpowiadamy, jak organizować i prowadzić szkolenia online, by efekty działań były porównywalne z efektami szkoleń stacjonarnych.\
+Zawiera praktyczne podpowiedzi, dla planujących szkolenie on-line: co zrobić przed szkoleniem, co w trakcie, a co po szkoleniu; opis wybranych platform komunikacyjnych i narzędzi oraz przydatne wskazówki dotyczące tego, co oprócz wykorzystania aplikacji powinno się wydarzyć podczas szkolenia, żeby to było prawdziwie edukacyjne doświadczenie.
