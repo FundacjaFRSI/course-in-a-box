@@ -32,11 +32,11 @@ Zalecamy zaplanowanie pierwszego spotkania z co najmniej sześciotygodniowym wyp
 
 Gdy już wiesz, z jakiego kursu skorzystasz w swoim klubie i masz już wybrane miejsce na spotkania, najwyższy czas, by utworzyć klub wiedzy na stronie P2PU! Proces tworzenia klubu składa się z pięciu kroków. Jeżeli masz już konto moderatora, zaloguj się i kliknij w napis “start a learning circle”  (utwórz klub wiedzy). Możesz również [zapoznać się](https://learningcircles.p2pu.org/en/studygroup/create/) z nimi bez logowania. Szablon do tworzenia klubu jest w jęz. angielskim, ale na [polskiej stronie klubów wiedzy](https://klubywiedzy.p2pu.org/facilitate) znajdziesz przewodnik po polsku: Formularze P2PU po polsku. 
 
-**Formularz tworzenia klubu wiedzy skąłda się z 5 kroków:**
-Krok 1: wybór kursu. 
-Krok 2: wybór miejsca.
-Krok 3: wybór dnia i godziny.
-Krok 4: tytuł i opis klubu i kursu.
+**Formularz tworzenia klubu wiedzy składa się z 5 kroków:**\
+Krok 1: wybór kursu. \
+Krok 2: wybór miejsca.\
+Krok 3: wybór dnia i godziny.\
+Krok 4: tytuł i opis klubu i kursu.\
 Krok 5: ostatnie kroki.
 
 Warto przyjrzeć się bliżej krokowi nr 5 „ Finalize” <Zakończenie, ostatnie kroki>. Możesz tu odpowiedzieć na dwa podane niżej pytania:
