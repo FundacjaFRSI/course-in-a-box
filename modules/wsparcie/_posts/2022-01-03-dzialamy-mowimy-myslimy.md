@@ -9,5 +9,5 @@ W poprzednim module (Moderowanie) przedstawiliśmy 7 różnych różnych sytuacj
 
 Spróbuj znaleźć wskazówki pomocne w rozwiązaniu tych problemów korzystając ze źródeł wymienionych w poprzedniej części (forum, strona moderatora, panel administracyjny, itd.). Gdzie jeszcze można szukać pomocnych informacji?
 
-Podzielcie się  na grupy. Po 25 minutach w pełnej grupie przedyskutujcie jakie materiały były najbardziej pomocne, do jakich zagadnień. Jak forma wsparcia byłaby dla ciebie najlepsza?
+Podzielcie się  na grupy. Po 25 minutach wróćcie do pełnej grupy i przedyskutujcie jakie materiały były najbardziej pomocne, do jakich zagadnień. Jak forma wsparcia byłaby dla ciebie najlepsza?
 
