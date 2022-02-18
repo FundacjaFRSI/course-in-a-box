@@ -63,7 +63,7 @@ Uprzedź uczestników, że powiadomienia będą przesyłane z adresu P2PU/learni
 
 Bywały przypadki, że grupa seniorów odmówiła korzystania z maila i komunikacja była prowadzona przez komunikatory typu Messenger. 
 
-Jeżeli z jakiegoś powodu potrzebujesz zawiesić zapisy do klubu, w panelu administracyjnym przy klubie wiedzy kliknij w “_manage_” a następnie w “_close signup_”. Bardziej szczegółowy opis funkcji panelu administracyjnego znajdziesz w  krótkim przewodniku “Panel administracyjny” dostępnym w zakładce Moderowanie na stronie klubów wiedzy. 
+Jeżeli z jakiegoś powodu potrzebujesz zawiesić zapisy do klubu, w panelu administracyjnym przy klubie wiedzy kliknij w “_manage_” a następnie w “_close signup_”. Bardziej szczegółowy opis funkcji panelu administracyjnego znajdziesz w  krótkim przewodniku “Formularze P2PU po polsku” dostępnym w zakładce [Moderowanie](https://klubywiedzy.p2pu.org/facilitate) na stronie klubów wiedzy. 
 
 ### Promocja online
 Ze względu na ograniczone możliwości kontaktów osobistych w czasie pandemii, moderatorki i moderatorzy klubów wiedzy wykorzystywali swoją kreatywność oraz istniejące sieci online, by docierać do ludzi z informacjami o klubach. Z sukcesem rekrutowano chętnych za pomocą list mailingowych, newsletterów, serwisów sąsiedzkich oraz mediów społecznościowych. W procesie promocji wirtualnych klubów wiedzy sprawdziło się kilka metod:
