@@ -9,7 +9,7 @@ Jeśli klub został wcześniej dobrze zaplanowany, samo utworzenie go na stronie
 
 Przyjrzyj się następującym pytaniom. Jeśli znasz już na nie odpowiedzi, wpisz je w formularzu. Jeżeli nie masz wszystkich odpowiedzi, zapisz formularz jako szkic i wróć do niego później (dotyczy tylko formularzy na własnym koncie). Zwróć uwagę na porady i wskazówki wyświetlane po prawej stronie ekranu. 
 
-Formularz - szablon do tworzenia klubu jest w jęz. angielskim, ale na polskiej stronie klubów wiedzy znajdziesz przewodnik po polsku “Formularze P2PU po polsku”. 
+Formularz - szablon do tworzenia klubu jest w jęz. angielskim, ale na polskiej stronie klubów wiedzy znajdziesz przewodnik po polsku “[Formularze P2PU po polsku](https://klubywiedzy.p2pu.org/facilitate)”. 
 
 _Po 10 minutach spotkajcie się w pełnej grupie, żeby się upewnić czy wszystko jest jasne. Potem ponownie wróćcie do grup na kolejne 15 minut._
 
