@@ -7,7 +7,7 @@ title: Rozgrzewka
 
 W tym module kursu dowiesz się, jakie wsparcie możesz otrzymać od FRSI, P2PU i społeczności moderatorów. 
 
-Podzielcie się na grupy lub z całą grupą: 
+Podzielcie się na grupy lub z całą grupą:\
 Przeczytaj przykładowe komentarze moderatorek. 
 Zastanów się czy Tobie zdarzyło się coś podobnego? Czy to doświadczenie, którym podzieliły się moderatorki, wydaje ci się przydatne? Podziel się wnioskami z grupą. 
 
