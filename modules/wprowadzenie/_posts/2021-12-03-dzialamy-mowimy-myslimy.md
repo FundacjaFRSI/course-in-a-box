@@ -20,7 +20,7 @@ Z tych samych narzędzi korzysta społeczność P2PU na całym świecie. Na przy
 * listy mailingowej, dzięki której otrzymasz informacje o comiesięcznych spotkaniach online społeczności i czy innych możliwościach rozwoju zawodowego.
 
 Konto P2PU (konto moderatora klubów wiedzy) jest aktualnie dostępne wyłącznie w języku angielskim, ale jest proste w obsłudze i dzięki naszym wskazówkom łatwo nauczysz się jego obsługi. 
-[Zakładanie konta](https://frsi.org.pl/wp-content/uploads/2022/02/konto_P2PU.png)
+![Zakładanie konta](https://frsi.org.pl/wp-content/uploads/2022/02/konto_P2PU.png)
 
 * _First&Last name_ = imię i nazwisko
 * _Email address_ = adres e-mail, na który za chwilę otrzymasz prośbę o weryfikację tego adresu (mail o tytule “Please confirm your email address”. Czasem mail trafia do spamu - szukaj maila od nadawcy “P2PU” lub “learningcircles”. Koniecznie kliknij w przycisk “Confirm your email address”, inaczej konto zostanie wersji roboczej i nie będzie można opublikować utworzonego klubu wiedzy! 
