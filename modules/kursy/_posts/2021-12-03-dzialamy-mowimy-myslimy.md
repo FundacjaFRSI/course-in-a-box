@@ -13,7 +13,7 @@ W tym miejscu kursu przejdziemy przez kolejne etapy procesu wyszukiwania, oceny 
 _Czas na wykonanie ćwiczenia to ok. 15-20 minut. Pozostały czas poświęć na dyskusje w grupie._ 
 
 ### Krok 1: Znajdź i wybierz kurs
-Korzystając z pytań pomocniczych najpierw samodzielnie wybierz kurs, który Cię interesuje (jako uczestnika lub moderatora) a następnie przedstaw swój wybór grupie.
+Korzystając z pytań pomocniczych najpierw samodzielnie wybierz kurs, który Cię interesuje (jako uczestnika, jako moderatora, lub po prstu Cię zaintrygował) a następnie przedstaw swój wybór grupie.
 * Jakie tematy i dziedziny najbardziej Cię interesują?
 * Ile cotygodniowych spotkań planujesz w swoim klubie?
 * Jaka jest grupa odbiorców Twojego klubu?
