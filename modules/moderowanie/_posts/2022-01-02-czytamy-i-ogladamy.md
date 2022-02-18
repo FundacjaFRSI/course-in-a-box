@@ -36,7 +36,7 @@ _Trzeba też pamiętać o tym, że każdy ma swoje doświadczenie, swoją perspe
 
 Jan Docka, Biblioteka Publiczna w Roselle, Illinois
 
-Refleksje Jan na temat moderowania świetnie pokazują zakres zadań i ról, jakie bierze na siebie moderator / moderatorka klubu wiedzy. W tej części podręcznika przyjrzymy się najważniejszym zadaniom osoby moderującej klub wiedzy.
+Refleksje Jan na temat moderowania świetnie pokazują zakres zadań i ról, jakie bierze na siebie moderator / moderatorka klubu wiedzy. W tej części kursu przyjrzymy się najważniejszym zadaniom osoby moderującej klub wiedzy.
 
 **Wprowadzaj i promuj wzajemne uczenie się**
 
@@ -66,9 +66,9 @@ Już w czasie pierwszej godziny spotkania zaczynają tworzyć się w grupie wię
 
 **Zadawaj pytania**
 
-Uczestnicy i uczestniczki spotkań mogą zadawać Ci wiele pytań merytorycznych, ponieważ z ich perspektywy będziesz osobą najbardziej kojarzącą się z tradycyjnym nauczaniem. W takiej sytuacji warto zaznaczyć, że pozostałe osoby również stanowią wartościowe źródło informacji, a ktoś zapewne zna odpowiedź na zadane pytanie. Możesz zareagować mówiąc na przykład: Nie jestem pewna. Czy zapytałeś kogoś jeszcze? Może ktoś już zetknął się z tym problemem? Czy wiecie, gdzie można by poszukać odpowiedzi na to pytanie? Staraj się raczej sugerować, a nie podawać konkretne instrukcje.
+Uczestnicy i uczestniczki spotkań mogą zadawać Ci wiele pytań merytorycznych, ponieważ z ich perspektywy będziesz osobą najbardziej kojarzącą się nauczycielem w tradycyjnym nauczaniu. W takiej sytuacji warto zaznaczyć, że pozostałe osoby również stanowią wartościowe źródło informacji, a ktoś zapewne zna odpowiedź na zadane pytanie. Możesz zareagować mówiąc na przykład: Nie jestem pewna. Czy zapytałeś kogoś jeszcze? Może ktoś już zetknął się z tym problemem? Czy wiecie, gdzie można by poszukać odpowiedzi na to pytanie? Staraj się raczej sugerować, a nie podawać konkretne instrukcje.
 
-_Kiedy pierwsza grupa polskich bibliotekarzy uczyła się o klubach wiedzy, jedna z grup roboczych zgłosiła problem, że nie działa jakaś funkcja formularza. Moderujący spotkanie z FRSI nie wiedzieli jak rozwiązać ten problem, ale gdy cała grupa się spotkała, żeby omówić prace w zespołach, okazało się, że w innym zespole też pojawił się ten problem i udało im się go rozwiązać._
+_Kiedy pierwsza grupa polskich bibliotekarzy uczyła się o klubach wiedzy, jedna z grup roboczych zgłosiła problem, że nie działa jakaś funkcja formularza. Moderujący spotkanie z FRSI nie wiedzieli jak rozwiązać ten problem, ale gdy cała grupa się spotkała, żeby omówić prace w zespołach, okazało się, że w innym zespole też pojawił się ten problem i udało im się go rozwiązać. Uczestnik, który odkrył to rozwiązanie podzielił się wiedzą ze wszystkimi i cała grupa mogła kontynuować wypełnianie formularza._
 
 **Zachęcaj do częstych, grupowych interakcji**
 
@@ -78,9 +78,9 @@ Więzi społeczne i emocjonalne pełnią w grupie podwójną rolę: ułatwiają 
 
 Gdy uczymy się nowych rzeczy, początkowy optymizm może łatwo zmienić się w rozczarowanie. Aby temu zapobiec, podkreślaj, że wierzysz w to, iż Twoi podopieczni osiągną swoje cele. Pamiętaj jednak, że trzeba realistycznie oceniać swoje możliwości i że nie wszystko da się osiągnąć w 6 tygodni. Jest mało prawdopodobne, by ktoś, kto nie miał wcześniejszego doświadczenia z programowaniem, zdobył świetną pracę w branży IT po przejściu jednego kursu o HTML/CSS na spotkaniach w klubie wiedzy. Z pewnością jednak zdobędzie podstawową wiedzę o tym, jak stworzyć stronę internetową, sprawdzi, czy jest to tematyka, którą chciałby zajmować się w przyszłości i pozna osoby o podobnych zainteresowaniach.
 
-**Zachęcaj do rozwoju**
+**Zachęcaj do rozwoju, doceń zaangażowanie**
 
-Nastawienie na rozwój to przekonanie o tym, że posiadaną wiedzę i umiejętności można nieustannie rozwijać, pracując nad sobą przez całe życie i wkładając w to znaczny wysiłek. Jako moderator/moderatorka staraj się doceniać ten wysiłek, podejście, czy strategie, jakie wypracowują osoby w Twoim klubie, zamiast ich talentów lub wrodzonych zdolności (np. nie mów „jesteś taka inteligentna!”).
+Nastawienie na rozwój to przekonanie o tym, że posiadaną wiedzę i umiejętności można nieustannie rozwijać, pracując nad sobą przez całe życie i wkładając w to znaczny wysiłek. Jako moderator/moderatorka staraj się doceniać ten wysiłek, podejście, czy strategie, jakie wypracowują osoby w Twoim klubie, zamiast ich talentów lub wrodzonych zdolności.
 
 **Obracaj frustrację w satysfakcję**
 
@@ -95,7 +95,7 @@ Dobry moderator czy moderatorka potrafią wspierać osoby uczące się w taki sp
 * przygotowywanie pomieszczenia przed rozpoczęciem i uprzątnięcie go po zakończeniu spotkania,
 * udostępnianie materiałów dodatkowych związanych z tematyką kursu,
 * pomoc osobom mającym trudności z opanowaniem materiału,
-• przynoszenie poczęstunku.
+* przynoszenie poczęstunku.
 
 **Cieszcie się podróżą, a nie tylko jej zakończeniem**
 
