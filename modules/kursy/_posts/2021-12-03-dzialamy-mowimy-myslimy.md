@@ -41,6 +41,6 @@ Oceń wybrany kurs korzystając z poniższych pytań pomocniczych.
 
 💻 Jeśli planujesz klub wiedzy online sprawdź czy kurs jest przystosowany do zajęć zdalnych - w razie czego skróć kurs lub wydłuż klub wiedzy, dodaj nowe/inne aktywności, zrezygnuj z niektórych fragmentów. 
  
-Po zakończeniu ćwiczenia powróćcie do pełnej grupy i poświęćcie dodatkowe 15 minut na podzielenie się swoimi przemyśleniami z pozostałymi. Niech każda mniejsza grupa opowie o przykładowym kursie, jaki wybrała i najciekawszych spostrzeżeniach oraz pomysłach, jakie pojawiły się w trakcie ćwiczenia. 
+Po zakończeniu ćwiczenia powróćcie do pełnej grupy i poświęćcie dodatkowe 15 minut na podzielenie się swoimi przemyśleniami z pozostałymi. Niech każda mniejsza grupa opowie o przykładowym kursie, jaki wybrała i o najciekawszych spostrzeżeniach oraz pomysłach, jakie pojawiły się w trakcie ćwiczenia. 
 
 Na koniec każda grupa odpowiada na pytanie czy wykorzystałaby wybrany kurs na swoim klubie wiedzy. Jeśli tak, to dlaczego? Lub dlaczego nie?
