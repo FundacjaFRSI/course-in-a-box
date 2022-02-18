@@ -132,13 +132,13 @@ Oto kilka pytań, które naszym zdaniem mogą w tym pomóc:
  
 💻 Przy większych grupach online świetnie się sprawdzają tzw. “szybkie randki” kiedy dzielimy losowo uczestników na pokoje/grupy 2 osobowe i prosimy by przez dosłownie 2-3 minuty porozmawiali na zadany temat, odpowiedzieli na pytanie. Te krótkie intensywne spotkania są zbliżone do naturalnych rozmów podczas przerw kawowych przy tradycyjnych spotkaniach. Są doskonałe na rozgrzewkę, ponieważ presja czasu oraz niedosyt (zwykle ktoś nie skończy odpowiedzi) powoduje zwiększenie zaangażowania i dodaje energii a formuła 1 na 1 pozwala na swobodę nawet najbardziej nieśmiałym uczestnikom spotkań online. 
  
-💻 Przy spotkaniach online można także:
-* Pokazać coś w kamerce (coś niebieskiego, coś trójkątnego, coś ważnego…)
-* Pokazać w kamerce odręcznie zrobiony rysunek (twoje wymarzone miejsce, twój…”
-* Pokazać swój pokój, widok z okna/ zwierzęta domowe… (gdy już grupa trochę się zna)
-* Narysować swój “portret” i zrobić “zdjęcie grupowe” na współdzielonej tablicy (np. AwwApp lub Jamboard czy tablica na Zoomie)
-* Wkleić do współdzielonego pliku zdjęcie, grafikę, GIF, mem (ulubionej potrawy, twojego nastroju, czegoś śmiesznego….)
-* Stworzyć chmurę słów (np. na AnswerGarden)
+💻 Przy spotkaniach online w ramach rozgrzewki lub przerwy można także:
+* pokazać coś w kamerce (coś niebieskiego, coś trójkątnego, coś ważnego…)
+* pokazać w kamerce odręcznie zrobiony rysunek (twoje wymarzone miejsce, twój zwierzak,...)
+* pokazać swój pokój, widok z okna/ zwierzęta domowe… (gdy już grupa trochę się zna)
+* narysować swój “portret” i zrobić “zdjęcie grupowe” na współdzielonej tablicy (np. AwwApp lub Jamboard czy tablica na Zoomie)
+* wkleić do współdzielonego pliku zdjęcie, grafikę, GIF, mem (ulubionej potrawy, twojego nastroju, czegoś śmiesznego….)
+* stworzyć chmurę słów (np. na AnswerGarden)
  
 **Aktywności grupowe**
 
@@ -154,7 +154,7 @@ Dobra aktywność grupowa powinna uwzględniać określony kontekst (jakie znacz
 * przygotowanie informacji zwrotnej dla dostawcy kursu zawierającej propozycje zmian,
 * wycieczka lub zajęcia grupowe w plenerze,
 * zaproszenie na spotkanie osoby z zewnątrz, np. ekspertki lub eksperta
-* przerwa (5-30 min.) na aktywność niezwiązaną z kursem (medytacja, krótka sesji jogi/ ćwiczeń relaksujących, taniec, granie w gry.
+* przerwa (5-30 min.) na aktywność niezwiązaną z kursem (medytacja, krótka sesji jogi/ ćwiczeń relaksujących, taniec, granie w gry).
 
 **Refleksje**
 
@@ -182,18 +182,19 @@ Kluby wiedzy online zwykle wymagają otwarcia trzech kart przeglądarki w jednym
 
 Uczestnicy spotkań online częściej tracą koncentrację niż podczas tradycyjnych spotkań a nie mogą spojrzeć co robią inni ani zapytać szeptem sąsiada i nie każdy czuje się komfortowo przyznając publicznie, że “się zgubił”. 
 * Staraj się naprzemiennie stosować różne rodzaje aktywności i ograniczaj do minimum “wykłady”. 
-* Wyraźnie zaznacz kiedy jeszcze tłumaczysz i pokazujesz a kiedy już oczekujesz, że każdy zacznie daną aktywność i upewnij się, że instrukcja jest podana w treści kursu, notatek lub na czacie.
+* Wyraźnie zaznacz kiedy jeszcze tłumaczysz i pokazujesz a kiedy już oczekujesz, że każdy zacznie daną aktywność  - uczestnik nie  widzi czy inni już zaczęli a dopóki mówisz, to słucha i patrzy na Ciebie. 
+* Upewnij się, że instrukcja jest podana w treści kursu, notatek lub na czacie.
 * Zapraszaj uczestników do pracy w mniejszych grupach (pokojach). Podczas spotkania stacjonarnego swobodę dyskusji mamy do ok. 10-12 osób a podczas spotkań online to maksymalnie 4-5 osób. 
 
 **Zarządzanie czatem**
 
 Funkcja czatu na spotkaniach online zapewnia przestrzeń do dyskusji i stanowi podstawowe narzędzie do udostępniania linków. Może się też zdarzyć, że niektóre osoby nie będą miały działającego mikrofonu i jedynym kanałem aktywnej komunikacji w czasie spotkania będzie dla nich czat. 
 * Przydzielenie jednej z osób uczestniczących zadania zarządzania czatem może być świetnym sposobem na zaangażowanie innych w działania klubu, a jednocześnie pozwoli Cię odciążyć w Twoich zadaniach moderatorki / moderatora.
-* Nie oczekuj, że wszyscy z równą koncentracją będą jednocześnie uczestniczyć w dyskusji, aktywności i śledzić czat. Jeżeli na czacie pojawia się coś ważnego powiel to pozostałych “kanałów” komunikacji klubu - przeczytaj na głos, poproś o skopiowanie do współdzielonych notatek lub zaproponuj wszystkich zajrzenie do czatu na kilka minut. 
-* Czasami część osób zaczyna prowadzić intensywną dyskusję na czacie nie zwracając uwagi na resztę grupy. Spróbuj wyczuć potrzeby tej grupy. Jeśli to wartościowa dyskusja to przekieruj uwagę wszystkich na czat lub poproś o podsumowanie dyskusji i kontynuacje ustnie. Jeśli to  “pogaduszki” - może to sygnał, że potrzebna jest przerwa a może wystarczy zaprosić “czatowników” do kolejnej wspólnej aktywności albo zignorować i dać im się “wygadać”. 
+* Nie oczekuj, że wszyscy z równą koncentracją będą jednocześnie uczestniczyć w dyskusji, aktywności i śledzić czat. Jeżeli na czacie pojawia się coś ważnego powiel to do pozostałych “kanałów” komunikacji klubu - przeczytaj na głos, poproś o skopiowanie do współdzielonych notatek lub zaproponuj wszystkim zajrzenie do czatu na kilka chwil. 
+* Czasami część osób zaczyna prowadzić intensywną dyskusję na czacie nie zwracając uwagi na resztę grupy. Spróbuj wyczuć potrzeby tej grupy. Jeśli to wartościowa dyskusja to przekieruj uwagę wszystkich na czat lub poproś o podsumowanie dyskusji i kontynuację ustnie. Jeśli to  “pogaduszki” - może to sygnał, że potrzebna jest przerwa a może wystarczy zaprosić “czatowników” do kolejnej wspólnej aktywności albo zignorować i dać im się “wygadać”. 
  
 ## Materiały dodatkowe
 
-Zapoznaj się z dodatkowymi informacjami zawartymi w pozostałych częściach podręcznika “Jak prowadzić klub wiedzy?”. Część 2. poświęcona jest samokształceniu dorosłych, część 3. zawiera praktyczne wskazówki dotyczące prowadzenia spotkań a część 4. skupia się na prowadzeniu klubów wiedzy online.  Wszystkie części dostępne są na stronie klubów wiedzy w zakładce [Moderowanie](https://klubywiedzy.p2pu.org/facilitate). 
+Zapoznaj się z dodatkowymi informacjami zawartymi w pozostałych częściach podręcznika _Jak prowadzić klub wiedzy?_. Część 2. poświęcona jest samokształceniu dorosłych, część 3. zawiera praktyczne wskazówki dotyczące prowadzenia spotkań a część 4. skupia się na prowadzeniu klubów wiedzy online.  Wszystkie części dostępne są na stronie klubów wiedzy w zakładce [Moderowanie](https://klubywiedzy.p2pu.org/facilitate). 
 
 Prosty opis narzędzi do wykorzystania podczas aktywności znajdziesz w [Bibliotece aplikacji](https://bibliotekaaplikacji.com/). 
