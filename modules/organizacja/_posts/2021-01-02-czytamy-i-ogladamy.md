@@ -146,18 +146,18 @@ P2PU posiada własną instalację Etherpada w swojej domenie, z której możesz 
 
 Bez względu na to jaką platformę do spotkań wybierzesz, pamiętaj żeby ją przetestować przed właściwym spotkaniem. Jeżeli uczestnicy klubu wiedzy mają doświadczenie w korzystaniu z wybranej platformy (warto o to zapytać podczas zapisów), wystarczy że sprawdzisz czy nie było jakichś aktualizacji, czy wszystko działa. 
 
-Jeżeli uczestnicy nie znają tej platformy i wiesz lub podejrzewasz, że nie mają dużego doświadczenia w korzystaniu z komputera, sprawdź poziom umiejętności, kompatybilność sprzętu i jakość internetu. Jedna z moderatorek tak wspomina swoje pierwsze spotkanie online: _Sporo czasu na pierwszym spotkaniu przeznaczyć musiałam na wyjaśnienie, jak obsługiwać mikrofon, kamerę, czat, linki, ponieważ żaden z uczestników nie brał nigdy udziału w spotkaniu on-line poprzez jakikolwiek komunikator. Wszyscy jednak nastawieni byli na słuchania, a sprawę ułatwiała też mała liczba uczestników - gdyby problemy miało na raz 20 początkujących osób, problem byłby dużo poważniejszy._
+Jeżeli uczestnicy nie znają tej platformy i wiesz lub podejrzewasz, że nie mają dużego doświadczenia w korzystaniu z komputera, sprawdź poziom umiejętności, kompatybilność sprzętu i jakość internetu. Jedna z moderatorek tak wspomina swoje pierwsze spotkanie online: _Sporo czasu na pierwszym spotkaniu przeznaczyć musiałam na wyjaśnienie, jak obsługiwać mikrofon, kamerę, czat, linki, ponieważ żaden z uczestników nie brał nigdy udziału w spotkaniu on-line poprzez jakikolwiek komunikator. Wszyscy jednak nastawieni byli na słuchanie, a sprawę ułatwiała też mała liczba uczestników - gdyby problemy miało na raz 20 początkujących osób, problem byłby dużo poważniejszy._
 
 W zależności od poziomu przygotowania uczestników lub ich lęku przed spotkaniami online, rozważ wcześniej zastosowanie któregoś z rozwiązań stosowanych przez naszych moderatorów. 
 * Ankiety wśród osób zainteresowanych udziałem w spotkaniach, przed lub po zapisaniu się do klubu, aby sprawdzić, do jakich zasobów mają dostęp te osoby i z jakich chcą, bądź nie chcą, korzystać.
-* Spotkanie 1:(1-2) stacjonarnie (lub w ostateczności online ale wsparte na początku rozmową przez telefon).
+* Spotkanie 1:1 stacjonarnie (lub w ostateczności online ale wsparte na początku rozmową przez telefon).
 * Spotkanie “techniczne” w mniejszych grupach (3-4 osoby).
 * Pierwsze spotkanie przeznaczone w większości na poznanie się i oswojenie z narzędziami.
 * Weryfikacja kursu pod kątem możliwości technicznych uczestników. Może się okazać, że zastosowanie kursu czy narzędzi, które planujesz wykorzystać, nie będzie możliwe i potrzebne będą pewne modyfikacje. 
 
 ## Materiały dodatkowe
 
-Zachęcamy do korzystania z innych metod badania potrzeb mieszkańców oraz promocji klubów w społeczności. Więcej materiałów na ten temat w trzecim module podręcznika _Jak prowadzić klub wiedzy cz.1 _
+Zachęcamy do korzystania z innych metod badania potrzeb mieszkańców oraz promocji klubów w społeczności. Więcej materiałów na ten temat w trzecim module podręcznika _Jak prowadzić klub wiedzy cz.1_
 
 Dodatkowe informacje o narzędziach do komunikacji online znajdziesz w [Bibliotece aplikacji](https://bibliotekaaplikacji.com/) oraz w części 4. podręcznika _Jak prowadzić klub wiedzy?_ (rozdział _Jak wybrać narzędzia?_). 
 
