@@ -66,9 +66,9 @@ Bywały przypadki, że grupa seniorów odmówiła korzystania z maila i komunika
 Jeżeli z jakiegoś powodu potrzebujesz zawiesić zapisy do klubu, w panelu administracyjnym przy klubie wiedzy kliknij w “_manage_” a następnie w “_close signup_”. Bardziej szczegółowy opis funkcji panelu administracyjnego znajdziesz w  krótkim przewodniku “Formularze P2PU po polsku” dostępnym w zakładce [Moderowanie](https://klubywiedzy.p2pu.org/facilitate) na stronie klubów wiedzy. 
 
 ### Promocja online
-Ze względu na ograniczone możliwości kontaktów osobistych w czasie pandemii, moderatorki i moderatorzy klubów wiedzy wykorzystywali swoją kreatywność oraz istniejące sieci online, by docierać do ludzi z informacjami o klubach. Z sukcesem rekrutowano chętnych za pomocą list mailingowych, newsletterów, serwisów sąsiedzkich oraz mediów społecznościowych. W procesie promocji wirtualnych klubów wiedzy sprawdziło się kilka metod:
+Ze względu na ograniczone możliwości kontaktów osobistych w czasie pandemii, moderatorki i moderatorzy klubów wiedzy wykorzystywali swoją kreatywność oraz istniejące sieci online, by docierać do ludzi z informacjami o klubach. Skutecznie rekrutowano chętnych za pomocą list mailingowych, newsletterów, serwisów sąsiedzkich oraz mediów społecznościowych. W procesie promocji wirtualnych klubów wiedzy sprawdziło się kilka metod:
 * Kontakt z osobami, które już kiedyś uczestniczyły w działaniach edukacyjnych biblioteki i jednocześnie prośba o powiadomienie ich znajomych.
-* Ogłoszenia na stronach internetowych biblioteki, miasta, w mediach społecznościowych i w lokalnej prasie
+* Ogłoszenia na stronach internetowych biblioteki, miasta, w mediach społecznościowych i w lokalnej prasie.
 * Dodawanie krótkiej zapowiedzi o rozpoczęciu działalności klubu do wypożyczanych książek, plakaty w bibliotece i innych miejscach dostępnych i uczęszczanych mimo pandemii. 
 * Zaproszenie kierowane nie tylko do lokalnej społeczności. Jedną z zalet nauki online jest to, że likwiduje ona wszelkie bariery geograficzne! Pomyśl o tych, którzy do tej pory mieli za daleko, nie mogli dojechać…
 
@@ -78,9 +78,9 @@ Promocja offline może być skutecznym sposobem dotarcia do osób, które nie ko
 ## Zarządzanie klubem wiedzy
 
 Klubem wiedzy możesz zarządzać w dowolnym czasie w panelu administracyjnym dla moderatorek i moderatorów klubów. Posiada on następujące funkcje:
-* możliwość edycji opisu klubu, terminów i godzin spotkań - każdego z 5 kroków,,
+* możliwość edycji opisu klubu, terminów i godzin spotkań - każdego z 5 kroków,
 * włączanie/wyłączanie możliwości zapisów do klubu (klub pojawi się lub zniknie z polskiej strony klubów wiedzy),
-* możliwość dodania uczestnika jeżeli ma on/ona problem z zapisaniem się ,
+* możliwość dodania uczestników jeżeli mają problem z zapisaniem się ,
 * wyświetlanie informacji o zapisanych uczestniczkach i uczestnikach,
 * możliwość wysyłania wiadomości e-mail oraz SMS do pojedynczych zapisanych osób lub do całej grupy,
 * możliwość dzielenia się opiniami z uczestniczkami i uczestnikami klubu, społecznością klubów wiedzy na całym świecie oraz zespołem FRSI i P2PU.
@@ -98,14 +98,14 @@ Gdy uczestnicy i uczestniczki zapisują się do wybranego przez siebie klubu wie
 
 **W trakcie działania klubu**
 
-Uczestnicy i uczestniczki otrzymują e-mailowe lub SMS-owe przypomnienia o spotkaniu klubu na dwa dni przed każdym spotkaniem. Wiadomośc jest generowana automatycznie, ale przed wysłaniem przypomnienia możesz w swoim panelu administracyjnym dostosować lub całkowicie zmienić treść wiadomości. Po każdym spotkaniu można spisać refleksje i przesłać je do uczestników i opcjonalnie do FRSI/P2PU.
+Uczestnicy i uczestniczki otrzymują e-mailowe lub SMS-owe przypomnienia o spotkaniu klubu na dwa dni przed każdym spotkaniem. Wiadomość jest generowana automatycznie, ale przed wysłaniem przypomnienia możesz w swoim panelu administracyjnym dostosować lub całkowicie zmienić treść wiadomości. Po każdym spotkaniu można spisać refleksje i przesłać je do uczestników i opcjonalnie do FRSI/P2PU.
 
 **Po zakończeniu wszystkich spotkań**
 
 Gdy spotkania klubu się zakończą  moderator/moderatorka otrzymają wiadomość e-mail z linkiem do ankiety ewaluacyjnej z pytaniami o realizację swoich celów, dalsze plany, opinię o spotkaniach oraz o to, co można usprawnić. Odpowiedzi możesz udzielić w jęz. polskim, P2PU przekaże zespołowi FRSI odpowiedzi polskich moderatorów. 
 
 Jeszcze nie jest dostępna opcja podobnej ankiety w jęz. polskim dla uczestników, ale zachęcamy do stworzenia własnej ankiety. Link do ankiety możesz przekazać w powiadomieniu lub oddzielnej korespondencji. 
-Uczestnicy chętnie przyjmują certyfikaty - możesz utworzyć swój własny lub skorzystaj z przykładowego szablonu. 
+Uczestnicy chętnie przyjmują certyfikaty - możesz utworzyć swój własny lub skorzystaj z przykładowego szablonu dostępnego w zakładce [Moderowanie](https://klubywiedzy.p2pu.org/facilitate). 
 
 ## Spotkania online
 W czasie pandemii  kluby wiedzy zwykle odbywały się online i zebraliśmy dużo doświadczeń związanych z prowadzeniem spotkań w formie zdalnej. Taka forma pozwala uczestniczyć w klubach wiedzy osobom, które mają kłopot z dojazdem lub ze względów zdrowotnych nie mogą się spotykać. Poniżej znajdziesz kilka praktycznych wskazówek jak przygotować spotkania online. 
@@ -146,7 +146,7 @@ P2PU posiada własną instalację Etherpada w swojej domenie, z której możesz 
 
 Bez względu na to jaką platformę do spotkań wybierzesz, pamiętaj żeby ją przetestować przed właściwym spotkaniem. Jeżeli uczestnicy klubu wiedzy mają doświadczenie w korzystaniu z wybranej platformy (warto o to zapytać podczas zapisów), wystarczy że sprawdzisz czy nie było jakichś aktualizacji, czy wszystko działa. 
 
-Jeżeli uczestnicy nie znają tej platformy i wiesz lub podejrzewasz, że nie mają dużego doświadczenia w korzystaniu z komputera, sprawdź poziom umiejętności, kompatybilność sprzętu i jakość internetu. Jedna z moderatorek tak wspomina swoje pierwsze spotkanie online: S_poro czasu na pierwszym spotkaniu przeznaczyć musiałam na wyjaśnienie, jak obsługiwać mikrofon, kamerę, czat, linki, ponieważ żaden z uczestników nie brał nigdy udziału w spotkaniu on-line poprzez jakikolwiek komunikator. Wszyscy jednak nastawieni byli na słuchania, a sprawę ułatwiała też mała liczba uczestników - gdyby problemy miało na raz 20 początkujących osób, problem byłby dużo poważniejszy._
+Jeżeli uczestnicy nie znają tej platformy i wiesz lub podejrzewasz, że nie mają dużego doświadczenia w korzystaniu z komputera, sprawdź poziom umiejętności, kompatybilność sprzętu i jakość internetu. Jedna z moderatorek tak wspomina swoje pierwsze spotkanie online: _Sporo czasu na pierwszym spotkaniu przeznaczyć musiałam na wyjaśnienie, jak obsługiwać mikrofon, kamerę, czat, linki, ponieważ żaden z uczestników nie brał nigdy udziału w spotkaniu on-line poprzez jakikolwiek komunikator. Wszyscy jednak nastawieni byli na słuchania, a sprawę ułatwiała też mała liczba uczestników - gdyby problemy miało na raz 20 początkujących osób, problem byłby dużo poważniejszy._
 
 W zależności od poziomu przygotowania uczestników lub ich lęku przed spotkaniami online, rozważ wcześniej zastosowanie któregoś z rozwiązań stosowanych przez naszych moderatorów. 
 * Ankiety wśród osób zainteresowanych udziałem w spotkaniach, przed lub po zapisaniu się do klubu, aby sprawdzić, do jakich zasobów mają dostęp te osoby i z jakich chcą, bądź nie chcą, korzystać.
