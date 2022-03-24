@@ -12,4 +12,4 @@ Poświęćcie 5 minut, aby indywidualnie odpowiedzieć sobie na poniższe pytani
 * Jakie są Twoje spostrzeżenia po ukończeniu pierwszego modułu? Czy, i jakie, masz jeszcze pytania lub wątpliwości?
 * Porównaj klub wiedzy do swoich innych doświadczeń edukacyjnych. Czym ta formuła różni się od innych sposobów zdobywania wiedzy? W czym jest do nich podobna?
 
-Po każdym spotkaniu klubu wiedzy, możesz zalogować się do panelu administracyjnego na stronie P2PU (platformy P2PU) i wysłać wiadomość podsumowującą do grupy lub do opiekuna w FRSI czy do zespołu P2PU. Jest to dobry sposób na przypomnienie, o czym rozmawialiście na spotkaniu, co może przydać się przed kolejnym spotkaniem, a także na przekazanie nam swoich pytań czy wątpliwości. 
+Jako moderator kubu wiedzy, po każdym spotkaniu możesz zalogować się do panelu administracyjnego na stronie P2PU (platformy P2PU) i wysłać wiadomość podsumowującą do grupy lub do opiekuna w FRSI czy do zespołu P2PU. Jest to dobry sposób na przypomnienie, o czym rozmawialiście na spotkaniu, co może przydać się przed kolejnym spotkaniem, a także na przekazanie nam swoich pytań czy wątpliwości. 
