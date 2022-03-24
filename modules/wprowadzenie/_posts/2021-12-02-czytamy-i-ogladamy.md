@@ -48,6 +48,7 @@ Gromadząc osoby zainteresowane jakimś tematem, masz już podstawę do stworzen
 
 #### Są ustrukturyzowane
 Każde spotkanie klubów wiedzy ma określoną strukturę. Jej poszczególne części to: rozgrzewka, czytanie i oglądanie materiałów kursu, zadania oraz refleksje.
+
 **Rozgrzewka** 
 Cotygodniowe spotkanie klubu zaczyna się krótkim, 5-10-minutowym wprowadzeniem. To dobra okazja do zapoznania się z pozostałymi osobami uczestniczącymi w klubie lub przypomnienia sobie, kto jest kim, a także do wyznaczenia celów danego spotkania. Można tu wykorzystać „icebreakery” (ćwiczenia “przełamujące lody”), zrobić rundkę z pytaniem lub podsumować dotychczasowe spotkania klubu.
  
