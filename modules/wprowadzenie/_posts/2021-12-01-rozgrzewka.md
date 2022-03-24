@@ -19,6 +19,6 @@ W tym module kursu:
 * Jeśli grupa dobrze się zna, opowiedzcie o swoich oczekiwaniach związanych z tym kursem i o swoich doświadczeniach z prowadzenia zajęć edukacyjnych (jeśli ktoś już ma takie doświadczenia).
 * Jeśli wcześniej się nie znaliście, zacznijcie od podania swoich imion oraz odpowiedzi na neutralne pytania, np. „W jaki sposób dotarłeś/dotarłaś na spotkanie?”
 
-✒️ Możesz wybrać dowolne inne pytanie żeby wybrać osobę, która zaczyna się przedstawiać i żeby wskazać o czym powie. 
+✒️ Możesz wybrać dowolne inne pytanie, ważne, żeby zacząć - wskazać pierwszą osobę, zadać pytanie i dać każdemu szansę powiedzieć coś o sobie. 
  
 Zanim przejdziesz do kolejnej części spotkania, upewnij się, że wszystkie osoby w grupie mają dostęp do materiałów online, z których będziecie korzystać. Niektóre kursy wymagają utworzenia konta -  możesz potrzebować więcej czasu, by upewnić się, że każda osoba utworzyła konto, zalogowała się, pamięta hasło itp.
